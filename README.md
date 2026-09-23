@@ -3,9 +3,14 @@
 Chatbot conversacional con IA para atención al cliente de una tienda de ropa. Desarrollado con FastAPI y Groq (llama-3.3-70b-versatile).
 Proyecto de prácticas en WinoWin · 2026.
 
-🔗 **Demo en vivo:** https://threadbot-winowin.fly.dev  
-🔧 **Panel de administración:** https://threadbot-winowin.fly.dev/admin  
-⚙️ **n8n (automatizaciones):** https://threadbot-n8n.fly.dev
+> ⚠️ **Sin demo pública.** El despliegue estuvo en Fly.io hasta 2026, pero entre el core y los
+> flujos de n8n consumía por encima de lo que cubre el plan gratuito, así que se retiró de
+> producción. **El proyecto se ejecuta entero en local con Docker** — ver "Puesta en marcha" más
+> abajo. La documentación técnica completa está en `ThreadBot_Informe_Tecnico_Final.docx` y el
+> manual de uso en `ThreadBot_Manual_Usuario.docx`.
+>
+> *(La API key de Groq del despliegue original está caducada: hay que poner una propia en `.env`,
+> ver `.env.example`.)*
 
 ---
 
