@@ -3,6 +3,10 @@
 Chatbot conversacional con IA para atención al cliente de una tienda de ropa. Desarrollado con FastAPI y Groq (llama-3.3-70b-versatile).
 Proyecto de prácticas en WinoWin · 2026.
 
+![Demostración de ThreadBot](docs/threadbot-demo.gif)
+
+*El asistente integrado en la tienda: saludo, botones de acceso rápido al catálogo y conversación en lenguaje natural.*
+
 > ⚠️ **Sin demo pública.** El despliegue estuvo en Fly.io hasta 2026, pero entre el core y los
 > flujos de n8n consumía por encima de lo que cubre el plan gratuito, así que se retiró de
 > producción. **El proyecto se ejecuta entero en local con Docker** — ver "Puesta en marcha" más
